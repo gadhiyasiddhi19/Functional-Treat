@@ -117,7 +117,9 @@ Main Menu
 ## Sample Output
 
 ==============================================
- Welcome to the Data Analyzer and Transformer
+
+Welcome to the Data Analyzer and Transformer
+
 ==============================================
 
 Main Menu
